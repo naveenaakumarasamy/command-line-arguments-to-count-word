@@ -32,7 +32,6 @@ print("word count in file = ",count)
 ```
 
 ### OUTPUT:
-###text file
 ![text file](https://user-images.githubusercontent.com/113497406/194259592-281ecb60-87e9-4698-9829-9a59f1565225.png)
 ![output](https://user-images.githubusercontent.com/113497406/194259681-1e6164c0-0070-4b82-bc33-63aed0b4e92e.png)
 
